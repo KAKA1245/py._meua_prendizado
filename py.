@@ -1,0 +1,33 @@
+''' 
+TEXT
+strings ou str =texto / se colocar "" o python entende como texto.
+
+
+NUMBERS
+integer = inteiro (1, 2, 3...) qualquer numero que nao tenha fraçao ele entende como inteiro.
+
+float = fração (4.3, 5.1, 7.6...)
+
+
+BOOLEAN TYPE
+bool = true or fake
+'''
+
+
+'''
+VARIABLES
+ nomeando a variavel (x= ola) eu consigo continuar a digitar meu codigo tranquilamente,
+ '''
+x= "ola a minha idade e"
+y= 18
+print (x) 
+print (y)
+
+
+a = str(10)
+b = int(20)
+c = float(30)
+
+print (a+a)
+print (b+b)
+print (c+c)
