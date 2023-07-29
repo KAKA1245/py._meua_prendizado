@@ -1,0 +1,15 @@
+# py._meua_prendizado
+#treinando sobre python (anotações)
+
+nome = input('Qual é o seu nome: ')
+idade = input('qual e a sua idade: ')
+idade = str(idade)
+cidade = input('aonde voce mora: ')
+print(' A ' + nome + ' tem ' + idade + ' anos de vida e mora em ' + cidade + " . ")
+
+
+
+
+# A dhaffyne tem 16 anos de vida e mora em serra.
+
+
