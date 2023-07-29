@@ -1,0 +1,7 @@
+# py._meua_prendizado
+#treinando sobre python (anotações)
+ano_nascimento = input('em que ano voce nasceu ?')
+idade = 2023 - int(ano_nascimento)
+print(idade)
+
+# pratiquei print e input
