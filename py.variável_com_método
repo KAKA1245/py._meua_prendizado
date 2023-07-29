@@ -1,0 +1,31 @@
+# py._meua_prendizado
+#treinando sobre python (anotações)
+
+menssagem = 'Eu adoro comida caseira'
+
+print(menssagem.upper())
+
+# outro modo, tentando encontra dentro da string; EX: letra.
+
+menssagem = 'eu adoro comida caseira'
+# index. 0123456789
+
+print(menssagem.find('c'))
+
+# outro modo, tentando encontra letra ou palavra com 'replace' e mudando elas por outras.
+
+menssagem = 'eu adoro comida caseira'
+# index. 0123456789
+
+print(menssagem.replace('adoro', 'amo'))
+
+
+
+
+
+
+
+
+
+
+
