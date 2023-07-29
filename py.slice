@@ -1,0 +1,8 @@
+# py._meua_prendizado
+
+# quando for numeros, valor, conta etc; tem que converter para string ou STR
+valor = 99.75
+valor = str(valor)
+#index  01234
+
+print(valor[3:4])
