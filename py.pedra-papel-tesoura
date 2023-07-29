@@ -1,0 +1,23 @@
+#é somente uma tentativa de fazer esse game
+
+import random
+
+def play():
+  user = input(" QUAL A SUA ESCOLHA?'p' for pedra, 'pp' for papel, 't' for tesoura\n")
+  computer = random, choice(['p', 'pp', 't'])
+
+if user == computer:
+  return 'It\'s a tie'
+
+# p > t, t > pp, pp > p
+if is_win(use,computer): 
+return 'You won!'
+
+return 'You lost!'
+
+def is_win(player, opponent):
+  #return true if player wins
+  #p > t, t > pp, pp > p
+if (player == 'p' and opponent == 't') or (player == 't' and opponent == 'pp')
+\ or (player == 'pp' and opponent == 'p'):
+  return True
