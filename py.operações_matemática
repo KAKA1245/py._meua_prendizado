@@ -1,0 +1,24 @@
+# py._meua_prendizado
+#treinando sobre python (anotações)
+
+# multiplicação e divisão veem primeiro no calculo do o que adição e subtração 
+calculo = 2 + 2 * 3 
+
+print(calculo)
+
+# se colocado o parêntese o programa vai priorizar a adição ou a subtração 
+calculo = (2 + 2) * 3 
+
+print(calculo)
+ 
+ # e tem os valores exponenciais, eles vêm após os parênteses
+calculo = 2 ** 3 + 4
+
+print(calculo)
+
+
+
+
+
+
+ 
