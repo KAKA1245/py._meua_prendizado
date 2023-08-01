@@ -1,0 +1,22 @@
+# py._meua_prendizado
+#treinando sobre python (anotações)
+
+operadores = 'banana' == 'banana'
+
+print (operadores)
+
+
+
+
+
+#     == equal
+#     != not equal
+#     > greater than
+#     < less than
+#     >= greater than or equal to
+#     <= less than or equal to
+
+
+
+
+
